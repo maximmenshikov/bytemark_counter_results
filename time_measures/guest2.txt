@@ -1,0 +1,65 @@
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+NUMERIC SORT        :          181.29  :       4.65  :       1.53
+NUMERIC SORT        :          184.49  :       4.73  :       1.55
+STRING SORT         :          7.1485  :       3.19  :       0.49
+STRING SORT         :          7.0982  :       3.17  :       0.49
+
+# BITFIELD            :       5.915e+07  :      10.15  :       2.12
+BITFIELD            :       5.915e+07  :      10.15  :       2.12
+
+# FP EMULATION        :          46.984  :      22.55  :       5.20
+FP EMULATION        :          47.802  :      22.94  :       5.29
+FOURIER             :          59.169  :       0.07  :       0.04
+FOURIER             :          58.918  :       0.07  :       0.04
+ASSIGNMENT          :          2.5481  :       9.70  :       2.51
+ASSIGNMENT          :          2.5623  :       9.75  :       2.53
+IDEA                :          884.34  :      13.53  :       4.02
+IDEA                :          883.87  :      13.52  :       4.01
+HUFFMAN             :          200.26  :       5.55  :       1.77
+HUFFMAN             :          201.02  :       5.57  :       1.78
+NEURAL NET          :        0.074034  :       0.12  :       0.05
+NEURAL NET          :        0.073857  :       0.12  :       0.05
+LU DECOMPOSITION    :          2.4036  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.212
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.381
+INTEGER INDEX       : 2.754
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	11m 8.30s
+user	5m 12.94s
+sys	0m 14.34s
+LU DECOMPOSITION    :          2.4013  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.213
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.381
+INTEGER INDEX       : 2.757
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	11m 8.39s
+user	5m 12.90s
+sys	0m 14.60s

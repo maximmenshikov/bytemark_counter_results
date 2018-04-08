@@ -1,0 +1,283 @@
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+BYTEmark* Native Mode Benchmark ver. 2 (10/95)
+Index-split by Andrew D. Balsa (11/97)
+Linux/Unix* port by Uwe F. Mayer (12/96,11/97)
+
+TEST                : Iterations/sec.  : Old Index   : New Index
+                    :                  : Pentium 90* : AMD K6/233*
+--------------------:------------------:-------------:------------
+
+# NUMERIC SORT        :          184.73  :       4.74  :       1.56
+NUMERIC SORT        :           181.2  :       4.65  :       1.53
+NUMERIC SORT        :          181.36  :       4.65  :       1.53
+NUMERIC SORT        :          182.65  :       4.68  :       1.54
+NUMERIC SORT        :          184.24  :       4.72  :       1.55
+NUMERIC SORT        :          186.16  :       4.77  :       1.57
+NUMERIC SORT        :          183.72  :       4.71  :       1.55
+NUMERIC SORT        :          185.64  :       4.76  :       1.56
+STRING SORT         :          7.1507  :       3.20  :       0.49
+STRING SORT         :           7.101  :       3.17  :       0.49
+STRING SORT         :          7.0954  :       3.17  :       0.49
+STRING SORT         :          7.0892  :       3.17  :       0.49
+STRING SORT         :           7.021  :       3.14  :       0.49
+STRING SORT         :          7.1121  :       3.18  :       0.49
+STRING SORT         :          7.0129  :       3.13  :       0.49
+STRING SORT         :          7.1261  :       3.18  :       0.49
+BITFIELD            :       5.877e+07  :      10.08  :       2.11
+BITFIELD            :      5.9263e+07  :      10.17  :       2.12
+BITFIELD            :      5.9425e+07  :      10.19  :       2.13
+BITFIELD            :      5.8814e+07  :      10.09  :       2.11
+BITFIELD            :      5.9218e+07  :      10.16  :       2.12
+BITFIELD            :      5.9041e+07  :      10.13  :       2.12
+BITFIELD            :      5.8385e+07  :      10.02  :       2.09
+BITFIELD            :      5.9828e+07  :      10.26  :       2.14
+FP EMULATION        :          47.104  :      22.60  :       5.22
+FP EMULATION        :          47.106  :      22.60  :       5.22
+FP EMULATION        :          47.562  :      22.82  :       5.27
+FP EMULATION        :          47.822  :      22.95  :       5.30
+FP EMULATION        :          46.883  :      22.50  :       5.19
+FP EMULATION        :          47.122  :      22.61  :       5.22
+FP EMULATION        :          47.064  :      22.58  :       5.21
+FP EMULATION        :          47.482  :      22.78  :       5.26
+FOURIER             :          59.065  :       0.07  :       0.04
+FOURIER             :          59.071  :       0.07  :       0.04
+FOURIER             :           59.59  :       0.07  :       0.04
+FOURIER             :          59.408  :       0.07  :       0.04
+FOURIER             :          58.849  :       0.07  :       0.04
+FOURIER             :          59.051  :       0.07  :       0.04
+FOURIER             :          59.372  :       0.07  :       0.04
+FOURIER             :          59.086  :       0.07  :       0.04
+ASSIGNMENT          :           2.554  :       9.72  :       2.52
+ASSIGNMENT          :          2.5197  :       9.59  :       2.49
+ASSIGNMENT          :          2.5178  :       9.58  :       2.48
+ASSIGNMENT          :          2.5303  :       9.63  :       2.50
+ASSIGNMENT          :          2.5561  :       9.73  :       2.52
+ASSIGNMENT          :          2.4949  :       9.49  :       2.46
+ASSIGNMENT          :          2.5219  :       9.60  :       2.49
+ASSIGNMENT          :          2.5608  :       9.74  :       2.53
+IDEA                :          885.38  :      13.54  :       4.02
+IDEA                :          884.56  :      13.53  :       4.02
+IDEA                :          882.46  :      13.50  :       4.01
+IDEA                :          888.29  :      13.59  :       4.03
+IDEA                :          886.79  :      13.56  :       4.03
+IDEA                :          883.19  :      13.51  :       4.01
+IDEA                :          880.66  :      13.47  :       4.00
+IDEA                :          890.85  :      13.63  :       4.05
+HUFFMAN             :          198.15  :       5.49  :       1.75
+HUFFMAN             :          197.33  :       5.47  :       1.75
+HUFFMAN             :          199.19  :       5.52  :       1.76
+HUFFMAN             :          199.37  :       5.53  :       1.77
+HUFFMAN             :          199.87  :       5.54  :       1.77
+HUFFMAN             :          198.95  :       5.52  :       1.76
+HUFFMAN             :          198.96  :       5.52  :       1.76
+HUFFMAN             :             201  :       5.57  :       1.78
+NEURAL NET          :        0.074319  :       0.12  :       0.05
+NEURAL NET          :        0.073584  :       0.12  :       0.05
+NEURAL NET          :        0.073705  :       0.12  :       0.05
+NEURAL NET          :        0.073685  :       0.12  :       0.05
+NEURAL NET          :         0.07323  :       0.12  :       0.05
+NEURAL NET          :        0.073577  :       0.12  :       0.05
+NEURAL NET          :        0.073455  :       0.12  :       0.05
+NEURAL NET          :        0.073564  :       0.12  :       0.05
+LU DECOMPOSITION    :          2.4013  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.159
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.368
+INTEGER INDEX       : 2.743
+FLOATING-POINT INDEX: 0.056
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 36.62s
+user	5m 10.96s
+sys	0m 16.37s
+LU DECOMPOSITION    :          2.4034  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.174
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.362
+INTEGER INDEX       : 2.762
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 40.40s
+user	5m 11.58s
+sys	0m 16.27s
+LU DECOMPOSITION    :          2.4042  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.196
+FLOATING-POINT INDEX: 0.099
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.379
+INTEGER INDEX       : 2.748
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 42.23s
+user	5m 12.57s
+sys	0m 15.62s
+LU DECOMPOSITION    :          2.4025  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.222
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.387
+INTEGER INDEX       : 2.752
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 40.31s
+user	5m 11.21s
+sys	0m 16.72s
+LU DECOMPOSITION    :          2.4159  :       0.13  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.196
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.377
+INTEGER INDEX       : 2.752
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 43.24s
+user	5m 12.63s
+sys	0m 15.85s
+LU DECOMPOSITION    :           2.404  :       0.12  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.170
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.374
+INTEGER INDEX       : 2.741
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 42.77s
+user	5m 12.28s
+sys	0m 16.22s
+LU DECOMPOSITION    :          2.4176  :       0.13  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.217
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.379
+INTEGER INDEX       : 2.760
+FLOATING-POINT INDEX: 0.055
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 45.79s
+user	5m 12.78s
+sys	0m 16.54s
+LU DECOMPOSITION    :          2.4288  :       0.13  :       0.09
+==========================ORIGINAL BYTEMARK RESULTS==========================
+INTEGER INDEX       : 8.182
+FLOATING-POINT INDEX: 0.100
+Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
+==============================LINUX DATA BELOW===============================
+CPU                 : Single
+L2 Cache            : 
+OS                  : Linux x.xx.xxx
+C compiler          : mips-linux-cc
+libc                : static
+MEMORY INDEX        : 1.365
+INTEGER INDEX       : 2.761
+FLOATING-POINT INDEX: 0.056
+Baseline (LINUX)    : AMD K6/233*, 512 KB L2-cache, gcc 2.7.2.3, libc-5.4.38
+* Trademarks are property of their respective holder.
+real	44m 44.16s
+user	5m 13.35s
+sys	0m 15.80s
